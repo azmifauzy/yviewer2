@@ -1,0 +1,8 @@
+https://shell.cloud.google.com/?hl=en_US&fromcloudshell=true&show=ide%2Cterminal
+
+docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+
+change port 6070
+
+gpg error
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY>
