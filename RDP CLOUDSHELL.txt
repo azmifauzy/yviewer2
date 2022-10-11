@@ -6,3 +6,5 @@ change port 6070
 
 gpg error
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY>
+
+apt update && apt install git -y && apt install nano -y && apt install python3-pip -y
