@@ -1,0 +1,14 @@
+JAVASCRIPT DASAR! | #JarvisAcademy Pertemuan ke-4 :::: JAVASCRIPT DASAR! | #JarvisAcademy Pertemuan ke-4
+MENGHIAS WEB DENGAN CSS | #JarvisAcademy Pertemuan ke-2 :::: MENGHIAS WEB DENGAN CSS | #JarvisAcademy Pertemuan ke-2
+Model Relationship dan Sorting | #JarvisAcademy Pertemuan ke-14 :::: Model Relationship dan Sorting | #JarvisAcademy Pertemuan ke-14
+BLADE TEMPLATING LARAVEL | #JarvisAcademy Pertemuan ke-12 :::: BLADE TEMPLATING LARAVEL | #JarvisAcademy Pertemuan ke-12
+Laravel CRUD ORM | #JarvisAcademy Pertemuan ke-13 Part 2 :::: Laravel CRUD ORM | #JarvisAcademy Pertemuan ke-13 Part 2
+MEMBUAT DESIGN ERD | #JarvisAcademy Pertemuan ke-10 :::: MEMBUAT DESIGN ERD | #JarvisAcademy Pertemuan ke-10
+Laravel CRUD ORM | #JarvisAcademy Pertemuan ke-13 Part 1 :::: Laravel CRUD ORM | #JarvisAcademy Pertemuan ke-13 Part 1
+MEMBUAT PROGRAM KASIR SEDERHANA DENGAN PASCAL | NUGAS #1 :::: MEMBUAT PROGRAM KASIR SEDERHANA DENGAN PASCAL | NUGAS #1
+INTRO LARAVEL | #JarvisAcademy Pertemuan ke-11 :::: INTRO LARAVEL | #JarvisAcademy Pertemuan ke-11
+JAVASCRIPT DOM | #JarvisAcademy Pertemuan ke-5 :::: JAVASCRIPT DOM | #JarvisAcademy Pertemuan ke-5
+Belajar SQL | #JarvisAcademy Pertemuan ke-9 :::: Belajar SQL | #JarvisAcademy Pertemuan ke-9
+PHP DASAR | #JarvisAcademy Pertemuan ke-6 :::: PHP DASAR | #JarvisAcademy Pertemuan ke-6
+PHP DASAR 2 | #JarvisAcademy Pertemuan ke-7 :::: PHP DASAR 2 | #JarvisAcademy Pertemuan ke-7
+LEBIH RAPIH DENGAN BOOTSTRAP | #JarvisAcademy Pertemuan ke-3 :::: LEBIH RAPIH DENGAN BOOTSTRAP | #JarvisAcademy Pertemuan ke-3
