@@ -7,7 +7,6 @@ change port 6070
 gpg error
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY>
 
-apt update && apt install git -y && apt install nano -y && apt install python3-pip -y 
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY> && apt update && apt install git -y && apt install nano -y && apt install python3-pip -y && git clone https://github.com/azmifauzy/yviewer.git && cd yviewer && python -m pip install --upgrade pip wheel && pip install "setuptools<59" && pip install -r requirements.txt
 
-git clone https://github.com/azmifauzy/yviewer.git && cd yviewer 
-&& python -m pip install --upgrade pip wheel && pip install "setuptools<59" && pip install -r requirements.txt
+git clone https://github.com/azmifauzy/yviewer.git && cd yviewer && python -m pip install --upgrade pip wheel && pip install "setuptools<59" && pip install -r requirements.txt
