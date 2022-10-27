@@ -237,7 +237,7 @@ def direct_or_search(position):
             query = choice(queries)
             keyword = query[0]
             video_title = query[1]
-            url = "https://www.youtube.com"
+            url = "https://m.youtube.com/?app=m"
             youtube = 'Video'
         except IndexError:
             try:
