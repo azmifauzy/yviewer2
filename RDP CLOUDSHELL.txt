@@ -5,3 +5,8 @@ docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
 change port 6070
 
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY> && apt update && apt install git -y && apt install nano -y && apt install python3-pip -y && git clone https://github.com/azmifauzy/yviewer.git && cd yviewer && python -m pip install --upgrade pip wheel && pip install "setuptools<59" && pip install -r requirements.txt
+
+
+proxy jetkai
+https://github.com/jetkai/proxy-list/blob/main/online-proxies/txt/proxies.txt
+https://github.com/jetkai/proxy-list/blob/main/archive/txt/proxies.txt
