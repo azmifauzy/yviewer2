@@ -34,11 +34,9 @@ QUALITY = {
 
 def skip_again(driver):
     try:
-        """
         skip_ad = driver.find_element(
             By.CLASS_NAME, "ytp-ad-skip-button-container")
         driver.execute_script("arguments[0].click();", skip_ad)
-        """
     except WebDriverException:
         pass
 
@@ -57,7 +55,7 @@ def skip_initial_ad(driver, video, duration_dict):
                               for x, t in zip([60, 1], ad_duration.split(":")))
             ad_duration = ad_duration * uniform(.01, .1)
             sleep(ad_duration)
-#           skip_ad.click()
+            skip_ad.click()
         except WebDriverException:
             skip_again(driver)
 
